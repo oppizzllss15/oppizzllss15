@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oppizzllss15
+- 👋 Hi, I’m Opeyemi Ogungbade.
 - 👀 I’m interested in web development and software engineering.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
